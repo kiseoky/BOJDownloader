@@ -4,8 +4,8 @@
 chromedriver.exe도 다운받아서 옆에 둬야 실행됩니다.
 
 Require
-'''
+```
 pip install Selenium
 pip install beautifulsoup4
-'''
+```
 
