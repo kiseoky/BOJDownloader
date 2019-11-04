@@ -9,3 +9,6 @@ pip install Selenium
 pip install beautifulsoup4
 ```
 
+#chromedriver 관련 오류
+https://chromedriver.chromium.org/downloads
+에서 크롬버전에 맞게 
